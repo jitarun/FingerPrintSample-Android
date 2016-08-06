@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FIngerPrintSample-Android</string>
+    <string name="fingerprint_description">Confirm Fingerprint to Unlock</string>
+    <string name="fingerprint_hint">Touch sensor</string>
+    <string name="use_fingerprint_to_authenticate_key">use_fingerprint_to_authenticate_key</string>
+    <string name="fingerprint_not_recognized">Fingerprint not recognized. Try again</string>
+    <string name="fingerprint_success">Fingerprint recognized</string>
+</resources>
