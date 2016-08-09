@@ -183,12 +183,12 @@ public class MainActivity extends AppCompatActivity implements FingerprintUiHelp
 
     @Override
     public void onAuthenticated() {
-        // You Can Override here
+        // You Can Override here ...
 
     }
 
     @Override
     public void onError() {
-        // You Can Override here 
+        // You Can Override here
     }
 }
